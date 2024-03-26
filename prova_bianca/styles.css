@@ -1,0 +1,147 @@
+
+.btn-register{
+    border: none;
+    border-radius: 7px;
+    background-color: #4CAF4F;
+    color: #fff;
+    padding: 1px 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*Header*/
+.container-header, .helping, .maecenas{
+    background-color: #F5F7FA;
+}
+
+.header-title, .learns-more-title, .helping-title{
+    font-size: 50px;
+    color: #4D4D4D;
+}
+
+.header-sub-title, .helping-sub-title{
+    font-size: 50px;
+    color: #4CAF4F;
+}
+
+.header-title {
+    white-space: nowrap;
+}
+
+
+
+
+/* Parte abaixo do header*/
+
+.container-ourClients-text, .container-caring-text{
+    color: #4D4D4D;
+}
+
+
+/* Container Cards*/
+
+.card-text h5{
+    color: #4D4D4D;
+    font-weight: bold;
+}
+
+.card-text img, .card-text p{
+    padding: 15px 0;
+}
+
+.card-style{
+    border-radius: 9px;
+    padding: 1px 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);   
+}
+
+
+/* Container Lear More */
+
+.learn-more-container p{
+    padding: 15px 0;
+}
+
+
+/* Container Helping*/
+
+.icon-helping{
+    font-size: 45px;
+}
+
+
+/* Container Maecenas*/
+
+.maecenas h4, .maecenas h5{
+    color: #4CAF4F;
+}
+
+
+
+/* Container Image Card*/
+
+.image-card{
+    margin: 0 5rem 5rem 3rem;
+}
+
+.image-card h4{
+    color: #4CAF4F;
+    text-align: center;
+}
+
+.image-card p{
+    text-align: center;
+    color: #4D4D4D;
+    font-weight: bold;
+}
+
+/* Container Pallentesque*/
+
+.pallentesque{
+    margin-top: 9rem;
+    padding: 5rem;
+    background-color: #F5F7FA
+}
+
+.pallentesque h2{
+    font-weight: bold;
+    font-size: 70px;
+    color:#263238;
+}
+
+
+.u{
+    background-color: #4CAF4F;
+}
+
+
+
+
+
+.footer{
+    background-color: #263238;
+    color: #F5F7FA;
+    padding: 60px;
+
+}
+
+.icons_footer{
+    margin: 10px;
+}
+
+.itens_footer{
+    margin-right: 125px;
+
+}
+
+.logo_footer{
+    margin-bottom: 30px;
+}
+
+.titulo_footer{
+    margin-bottom: 20px;
+}
+
+.input_footer{
+    background-color: #D9DBE1;
+    color: #FFFFFF;
+}
